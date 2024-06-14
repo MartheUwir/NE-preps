@@ -1,0 +1,10 @@
+{
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.expandMode": "doubleClick",
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-browserPreview": false
+    },
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.editor.tabActionLocation": "left"
+}
